@@ -1,0 +1,8 @@
+cv==1.0.0
+cvzone==1.5.4
+flake8==4.0.1
+mccabe==0.6.1
+numpy==1.22.0
+opencv-python==4.5.5.62
+pycodestyle==2.8.0
+pyflakes==2.4.0
